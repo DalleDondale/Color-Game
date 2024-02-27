@@ -1,0 +1,13 @@
+.square {
+  width: 150px;
+  height: 150px;
+  float: left;
+}
+
+#display {
+  background: #fff;  
+}
+
+button {
+  margin-top: 20px;  
+}
